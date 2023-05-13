@@ -3,5 +3,5 @@ def Hello():
 Hello()
 
 def Hello_day():
-    print("Добрый день")
+    print("Добрый денек")
 Hello_day()
